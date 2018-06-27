@@ -1,7 +1,7 @@
 [package]
 name = "pbrt"
 version = "0.1.0"
-authors = ["Daan van Berkel <daan.v.berkel.1980@gmail.com>"]
+authors = ["Daan van Berkel <daan.v.berkel.1980+pbrt@gmail.com>"]
 
 [dependencies]
 clap = { version="2.32.0", features=["yaml"] }

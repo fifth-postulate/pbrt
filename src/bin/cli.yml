@@ -1,0 +1,5 @@
+name: pbrt
+version: "0.1.0"
+author: Daan van Berkel <daan.v.berkel.1980+pbrt@gmail.com>
+about: Physically Based Rendering
+args:
